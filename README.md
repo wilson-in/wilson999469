@@ -31,9 +31,8 @@ I’m a Data Analyst passionate about uncovering stories hidden in data and tran
 - **Other**:                APIs, Web Scraping, Cloud Basics (AWS, GCP), Linux Command Line
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=dracula)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=dracula)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=wilson-in&show_icons=true&theme=dracula)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilson-in&layout=compact&theme=dracula)
 ## 🌐 Let’s Connect!
 - [Email](mailto: wilsoninforecruit@gmail.com)
 - [LinkedIn] (www.linkedin.com/in/wilson-l-)
